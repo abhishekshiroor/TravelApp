@@ -1,0 +1,63 @@
+
+body{
+	font-family: sans-serif;
+	font-size: small;
+}
+table
+{
+	border: 2px solid blue;
+    border-spacing: 0;
+
+    width: 350px;
+    margin-left:  auto;
+	margin-right: auto;
+	margin-top: 10%;
+	
+}
+
+#header{
+height: 30px;
+background: url('images/ititopback.png');
+}
+
+#mainrow{
+height: 120px;
+background: url('images/itibodyback.png');
+}
+
+#submitrow{
+height: 30px;
+background: url('images/itibodyback.png');
+}
+
+#itititle{
+text-align: left;
+color: white;
+}
+
+#iticancel{
+text-align: right;
+}
+#textcenter{
+text-align: center;
+}
+#iticonfirm{
+background:url('images/itiinfo.png') no-repeat center top;
+text-align: top;
+padding-top: 25px;
+}
+
+.submit{
+margin: 0;
+padding-left: 235px;
+border: 0;
+height: 40px;
+width: 50px;
+background: url('images/itiok.png') no-repeat center top;
+text-align: center;
+text-indent: -999em;
+}
+#textcenter{
+text-align: left;
+padding-left: 50px;
+}
